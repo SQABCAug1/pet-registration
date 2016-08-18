@@ -1,4 +1,4 @@
-#Basic Project
+#Pet Registration
 
 *Simple Java Project*
 
@@ -7,6 +7,6 @@
 * Java Application
 * JUnit
 
-Simple Java Application. 
+Application which registers pets into the system. 
 
 [Jean-francois Nepton](http://sqasolution.com)
