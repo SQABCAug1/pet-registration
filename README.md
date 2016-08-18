@@ -1,4 +1,4 @@
-#Pet Registration
+#Pet Registration Using Classes
 
 *Simple Java Project*
 
@@ -6,6 +6,7 @@
 
 * Java Application
 * JUnit
+* Java Classes
 
 Application which registers pets into the system. 
 
